@@ -122,3 +122,9 @@ then id had a sharp fall with the bottom on Fernando Collor's term.
 |São Paulo|60|
 </td></tr>
 </table>
+
+# Other Resources
+
+https://en.wikipedia.org/wiki/List_of_presidents_of_Brazil
+https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_popula%C3%A7%C3%A3o
+https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson
