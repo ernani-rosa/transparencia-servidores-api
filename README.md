@@ -34,7 +34,6 @@ Most of the military personel had little information, and was filtered out when 
 ![](/plots/lotação-orgão-afastamento-civis.png)
 ![](/plots/exercicio-orgão-afastamento-civis.png)
 
-
 - The most common role between civil servants is the University Professor, followed by other teachers and administrative agents.
   - There are also three roles with a lot of employees that involve infirmary.
  ![](/plots/servidores-civis-por-cargo.png)
@@ -50,11 +49,18 @@ then id had a sharp fall with the bottom on Fernando Collor's term.
  
  ![](/plots/ingressantes-ano-mandato-eleição.png)
  
- - Finally, a distribution of the federal servants can be seen in the choropleth maps bellow.
+ - Years with elections have higher hiring numbers on average
+
+![](/plots/ingresso-mes-hue-eleição.png)
+
+ 
+- Finally, a distribution of the federal servants can be seen in the choropleth maps bellow.
+
  ![](/plots/total-servidores-estado.png)
  
- - And adjusted by the population of each state.
+- And adjusted by the population of each state.
     - "Distrito Federal" was omitted from this map, as it has 4 times the second place number, and would make the heatmap useless.
+    
  ![](/plots/servidores-100mil-estado.png)
  <table>
  <tr><th>Servidores por Estado</th><th>Servidores/100k habitantes</th></tr>
@@ -128,3 +134,4 @@ then id had a sharp fall with the bottom on Fernando Collor's term.
 https://en.wikipedia.org/wiki/List_of_presidents_of_Brazil
 https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_popula%C3%A7%C3%A3o
 https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson
+https://en.wikipedia.org/wiki/Elections_in_Brazil
